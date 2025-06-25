@@ -1,0 +1,6 @@
+Flask
+flask-cors
+pandas
+openai
+mysql-connector-python
+openpyxl
